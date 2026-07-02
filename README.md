@@ -1,7 +1,7 @@
 
 # Python Projects
 
-A collection of small Python projects built while learning the language — CLI tools focused on core concepts like loops, data structures, and error handling.
+A collection of small Python projects built while learning the language - CLI tools focused on core concepts like loops, data structures, and error handling.
 
 ## Projects
 ### 1. To-Do List (`to-do.py`)
